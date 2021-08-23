@@ -1,6 +1,6 @@
 //iniitial segmented strings
-var fragArray = ["all is well", "ell that en", "hat end", "t ends well"];
-
+// var fragArray = ["all is well", "ell that en", "hat end", "t ends well"];
+var fragArray = ["Working for Ad", "for Aderant wou", "would be a dream j", "ream job for me!"]
 //accepts longest substrings when calculated
 var fragObjectArray = [];
 
